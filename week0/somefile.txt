@@ -1,0 +1,3 @@
+(https://www.google.com "Google's Homepage") със заглавие
+[Arbitrary case-insensitive reference text] 
+(../blob/master/LICENSE)
