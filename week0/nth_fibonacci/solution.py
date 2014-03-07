@@ -4,4 +4,9 @@ def nth_fibonacci(n):
 	elif n == 1:
 		return 1
 	else:
-		return nth_fibonacci(n-1)+nth_fibonaccipyth(n-2)
+		return nth_fibonacci(n-1)+nth_fibonacci(n-2)
+def main():
+	print(nth_fibonacci(3))
+	print(nth_fibonacci(8))
+if __name__ == '__main__':
+	main()
